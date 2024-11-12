@@ -4,9 +4,9 @@ import (
 	"log"
 
 	utls "github.com/refraction-networking/utls"
-	http "github.com/saucesteals/fhttp"
+	http "github.com/Daily-Box-Club/fhttp"
 
-	"github.com/saucesteals/fhttp/http2"
+	"github.com/Daily-Box-Club/fhttp/http2"
 )
 
 type ClientSpec struct {

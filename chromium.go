@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	utls "github.com/refraction-networking/utls"
-	"github.com/saucesteals/fhttp/http2"
+	"github.com/Daily-Box-Club/fhttp/http2"
 )
 
 var (

@@ -1,10 +1,10 @@
-module github.com/saucesteals/mimic
+module github.com/Daily-Box-Club/mimic
 
 go 1.18
 
 require (
+	github.com/Daily-Box-Club/fhttp v0.0.0-20241112135323-a46e710bd7e3
 	github.com/refraction-networking/utls v1.1.6-0.20221101174805-9c1996abbbba
-	github.com/saucesteals/fhttp v0.0.0-20240117034418-b4f835e6c226
 )
 
 require (

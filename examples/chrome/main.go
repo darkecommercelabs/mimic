@@ -5,9 +5,9 @@ import (
 	"io"
 	"os"
 
+	http "github.com/Daily-Box-Club/fhttp"
+	"github.com/Daily-Box-Club/mimic"
 	tls "github.com/refraction-networking/utls"
-	http "github.com/saucesteals/fhttp"
-	"github.com/saucesteals/mimic"
 )
 
 var (
