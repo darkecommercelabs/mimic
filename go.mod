@@ -1,4 +1,4 @@
-module github.com/Daily-Box-Club/mimic
+module github.com/darkecommercelabs/mimic
 
 go 1.18
 
