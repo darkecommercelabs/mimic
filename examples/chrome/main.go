@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	http "github.com/Daily-Box-Club/fhttp"
+	http "github.com/darkecommercelabs/fhttpv3"
 	"github.com/Daily-Box-Club/mimic"
 	tls "github.com/refraction-networking/utls"
 )
