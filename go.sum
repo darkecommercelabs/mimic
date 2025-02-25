@@ -1,5 +1,7 @@
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
+github.com/darkecommercelabs/fhttpv3 v0.0.0-20250225150747-6bffed444100 h1:jSyPbOinFCUSEXFfy5bdlSqp/FhqqQktnYwqG9+mShM=
+github.com/darkecommercelabs/fhttpv3 v0.0.0-20250225150747-6bffed444100/go.mod h1:xtAxja6OU0KviGEVu2ZN1EAtx+c8yFlrABxxXxXAqnU=
 github.com/klauspost/compress v1.15.12 h1:YClS/PImqYbn+UILDnqxQCZ3RehC9N318SU3kElDUEM=
 github.com/klauspost/compress v1.15.12/go.mod h1:QPwzmACJjUTFsnSHH934V6woptycfrDDJnH7hvFVbGM=
 github.com/refraction-networking/utls v1.1.6-0.20221101174805-9c1996abbbba h1:U22ARfkyk+nCTAt1BgwRljdQTfXqg3FKOL1xfOel4GQ=
