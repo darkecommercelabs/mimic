@@ -6,7 +6,7 @@ import (
 	"os"
 
 	http "github.com/darkecommercelabs/fhttpv3"
-	"github.com/Daily-Box-Club/mimic"
+	"github.com/darkecommercelabs/mimic"
 	tls "github.com/refraction-networking/utls"
 )
 
